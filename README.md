@@ -15,5 +15,5 @@ npm run build
 ## Стек
 
 frontend: Vue, Vuetify, Vuex, HTML
-
-![image](https://user-images.githubusercontent.com/73246237/218342949-dd9fa934-5943-4ffb-a317-1093b6f130ad.png)
+```
+<img width="1490" alt="Снимок экрана 2023-02-13 в 02 10 04" src="https://user-images.githubusercontent.com/73246237/218343088-e4b740d4-ef4c-4008-983a-ae31e83ff7b3.png">
