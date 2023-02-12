@@ -14,6 +14,6 @@ npm run build
 ```
 ## Стек
 
-frontend: Vue, Vuetify, Vuex, HTML <br>
+frontend: Vue, Vuetify, Vuex, HTML
 
-![image](https://user-images.githubusercontent.com/73246237/218342933-ac492027-5b4f-4a53-adca-57b4e3aacba7.png)
+![image](https://user-images.githubusercontent.com/73246237/218342949-dd9fa934-5943-4ffb-a317-1093b6f130ad.png)
